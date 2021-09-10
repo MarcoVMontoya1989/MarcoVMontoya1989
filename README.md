@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Twitter-%40Mark_V_-blue)](https://twitter.com/Mark_V_)
 [![](https://img.shields.io/badge/Searchin%20Job-true-brightgreen)]()
 
-![](https://github.com/MarcoVMontoya1989/MarcoVMontoya1989/blob/master/aboutMe.png)
+![](https://github.com/MarcoVMontoya1989/MarcoVMontoya1989/blob/master/aboutMeV2.png)
 
 ## About Me:
 #### Always curious to learn website technology. A passionate and enthusiast towards web development. Coding and electronic sports boost my adrenaline #WinG2 Go G2!. <br> <br>
